@@ -10,7 +10,8 @@ Será feito nas seguintes fases:
 
 ### 1 - Bootstrapping
 
-[Issue correspondente]()
+[Issue correspondente](https://github.com/EronAlves1996/API-BBB/issues/1)
+
 
 O bootstraping será a fase onde se cria uma nova edição e realiza-se o cadastro dos participantes. Nesse caso, teremos dois tipos de usuários: uma é o organizador e a outra é o participante.
 Primeiramente, um usuário não cadastrado que quiser realizar uma edição irá se cadastrar na API. Ao se cadastrar, caso não exista um pré-cadastro de um organizador, automaticamente já é registrado como organizador. O organizador já terá uma edição do reality já associada a ele, bastando dar prosseguimento ao pré-cadastro dos participantes.
